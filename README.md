@@ -128,4 +128,14 @@ The integration of Excel preprocessing and Power BI dashboards enabled a compreh
 
 - This project transformed raw automotive sales data into clear, actionable insights for manufacturers, dealers, and analysts.
 
+## 👨‍💻 Author:
+- Vishnu Prasath M
+- Data Analyst | Power BI Developer
 
+- 🌐 GitHub: 
+- 💼 LinkedIn: https://www.linkedin.com/in/m-vishnu-prasath/
+- 📧 Email: mvishnuprasath20@gmail.com
+
+
+## 🏷️ Tags:
+#PowerBI #DataAnalytics #CarSales #BusinessIntelligence #ExcelPowerQuery #DAX #DataVisualization #AutomotiveAnalytics
