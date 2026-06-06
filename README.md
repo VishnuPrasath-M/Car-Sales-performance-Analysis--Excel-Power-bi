@@ -10,7 +10,7 @@ This project analyzes car sales performance across India, focusing on:
 - Revenue trends and profit margins
 - Identification of underperforming cities
 
-1. Problem Statement
+Problem Statement
 Understand sales performance of different car manufacturers (Maruti Suzuki, Tata, Toyota, Hyundai, Volkswagen, etc.) across Indian cities.
 
 Identify pricing trends by comparing Ex‑Showroom Price vs Manufacturing Cost Price.
