@@ -132,7 +132,7 @@ The integration of Excel preprocessing and Power BI dashboards enabled a compreh
 - Vishnu Prasath M
 - Data Analyst | Power BI Developer
 
-- 🌐 GitHub: 
+- 🌐 GitHub: https://github.com/VishnuPrasath-M
 - 💼 LinkedIn: https://www.linkedin.com/in/m-vishnu-prasath/
 - 📧 Email: mvishnuprasath20@gmail.com
 
