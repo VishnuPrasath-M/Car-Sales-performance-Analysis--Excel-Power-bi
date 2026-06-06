@@ -10,14 +10,16 @@ This project analyzes car sales performance across India, focusing on:
 - Revenue trends and profit margins
 - Identification of underperforming cities
 
-## 📂 Repository Structure
-- **data/** → Raw and cleaned datasets
-- **dashboards/** → Power BI reports and visuals
-- **docs/** → Documentation and methodology
-- **README.md** → Project overview
+1. Problem Statement
+Understand sales performance of different car manufacturers (Maruti Suzuki, Tata, Toyota, Hyundai, Volkswagen, etc.) across Indian cities.
 
-## 🔑 Key Insights
-- Revenue per km and year-over-year trends
-- Profit margin analysis by car model
-- Underperforming city identification
+Identify pricing trends by comparing Ex‑Showroom Price vs Manufacturing Cost Price.
+
+Analyze mileage (City, Highway, ARAI Certified) and its impact on sales volume.
+
+Evaluate safety features (Airbags, Safety Ratings) and their correlation with customer demand.
+
+Provide actionable insights for dealers and manufacturers to optimize inventory, pricing, and marketing strategies.
+
+
 
